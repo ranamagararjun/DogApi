@@ -33,7 +33,7 @@
     {
       "description": "A small, fluffy breed known for its friendly and outgoing nature.",
       "title": "Pomeranian",
-      "image_url": "",
+      "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Pomeranian-On-White-01.jpg",
       "genres": ["Friendly", "Outgoing", "Toy Dog"]
     },
     {
@@ -53,6 +53,54 @@
       "title": "Scottish Terrier",
       "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Scottish-Terrier-On-White-04.jpg",
       "genres": ["Independent", "Loyal", "Terrier"]
+    },
+    {
+    "description": "A medium-sized breed with a strong hunting instinct and a distinctive black and tan coat.",
+    "title": "Doberman Pinscher",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Doberman-Pinscher-standing-outdoors.jpg",
+    "genres": ["Loyal", "Protective", "Energetic"]
+    },
+    {
+    "description": "A tiny and charming breed known for its big personality and smooth coat.",
+    "title": "Chihuahua",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Longhaired-Chihuahua-walking-in-the-grass.jpg",
+    "genres": ["Alert", "Lively", "Companion"]
+    },
+    {
+    "description": "A medium-sized herding dog with a thick double coat and keen intelligence.",
+    "title": "Border Collie",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Border-Collie-on-seesaw-in-agility.jpg",
+    "genres": ["Intelligent", "Energetic", "Herding Dog"]
+    },
+    {
+    "description": "A large, muscular breed with a short coat and a calm, confident demeanor.",
+    "title": "Boxer",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Boxer-head-portrait-outdoors.jpg",
+    "genres": ["Playful", "Loyal", "Protective"]
+    },
+    {
+    "description": "A small, sturdy dog with a distinctive beard and eyebrows, known for its friendly nature.",
+    "title": "Miniature Schnauzer",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Miniature-Schnauzer-fetching-a-frisbee.jpg",
+    "genres": ["Friendly", "Alert", "Terrier"]
+    },
+    {
+    "description": "A medium-sized dog with a thick double coat, known for its endurance and friendly temperament.",
+    "title": "Alaskan Malamute",
+    "image_url": "https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/09151144/Alaskan-Malamute-standing-in-the-grass1.jpg",
+    "genres": ["Strong", "Friendly", "Working Dog"]
+    },
+    {
+    "description": "A small, elegant breed with a silky coat and a lively, affectionate personality.",
+    "title": "Cavalier King Charles Spaniel",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Cavalier-King-Charles-Spaniel-standing-in-the-grass.jpg",
+    "genres": ["Affectionate", "Gentle", "Companion"]
+    },
+    {
+    "description": "A medium to large-sized breed known for its calm nature and distinctive blue-black tongue.",
+    "title": "Chow Chow",
+    "image_url": "https://www.akc.org/wp-content/uploads/2018/04/chow-chow-closeup-portrait-drooling.jpg",
+    "genres": ["Independent", "Loyal", "Reserved"]
     }
   ]
 }
