@@ -3,37 +3,31 @@
     {
       "description": "A loyal and friendly breed known for its intelligence and golden coat.",
       "title": "Golden Retriever",
-      "image_url": "",
+      "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Golden-Retriever-standing-outdoors.jpg",
       "genres": ["Friendly", "Intelligent", "Family Dog"]
-    },
-    {
-      "description": "A small, energetic breed with a distinctive curly coat.",
-      "title": "Poodle",
-      "image_url": "",
-      "genres": ["Energetic", "Intelligent", "Hypoallergenic"]
     },
     {
       "description": "A courageous and muscular breed, often used as a working dog.",
       "title": "German Shepherd",
-      "image_url": "",
+      "image_url": "https://www.akc.org/wp-content/uploads/2017/11/German-Shepherd-Dog-running.jpg",
       "genres": ["Loyal", "Courageous", "Working Dog"]
     },
     {
       "description": "A playful and affectionate breed with a distinctive wrinkled face.",
       "title": "Bulldog",
-      "image_url": "",
+      "image_url": "https://www.akc.org/wp-content/uploads/2017/11/bulldog-asleep-on-couch-tongue-out.jpg",
       "genres": ["Playful", "Affectionate", "Calm"]
     },
     {
       "description": "A small, lively breed known for its long ears and cheerful personality.",
       "title": "Beagle",
-      "image_url": "",
+      "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Beagles-standing-side-by-side-in-the-yard.jpg",
       "genres": ["Lively", "Friendly", "Hunting Dog"]
     },
     {
       "description": "A large and powerful breed, often used as a guard dog.",
       "title": "Rottweiler",
-      "image_url": "",
+      "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Rottweiler-lying-on-a-park-bench.jpg",
       "genres": ["Protective", "Confident", "Loyal"]
     },
     {
@@ -45,19 +39,19 @@
     {
       "description": "A gentle giant with a calm and friendly demeanor.",
       "title": "Saint Bernard",
-      "image_url": "",
+      "image_url": "https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/14154632/Saint-Bernard-head-portrait-outdoors-in-the-winter.jpg",
       "genres": ["Gentle", "Friendly", "Rescue Dog"]
     },
     {
       "description": "A sleek and athletic breed, known for its speed and grace.",
       "title": "Greyhound",
-      "image_url": "",
+      "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Greyhound-laying-down-in-the-grass.jpg",
       "genres": ["Athletic", "Gentle", "Racing Dog"]
     },
     {
       "description": "A small, sturdy breed with a distinctive wiry coat.",
       "title": "Scottish Terrier",
-      "image_url": "",
+      "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Scottish-Terrier-On-White-04.jpg",
       "genres": ["Independent", "Loyal", "Terrier"]
     }
   ]
