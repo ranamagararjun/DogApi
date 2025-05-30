@@ -4,103 +4,103 @@
       "description": "A loyal and friendly breed known for its intelligence and golden coat.",
       "title": "Golden Retriever",
       "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Golden-Retriever-standing-outdoors.jpg",
-      "genres": ["Friendly", "Intelligent", "Family Dog"]
+      "categories": ["Friendly", "Intelligent", "Family Dog"]
     },
     {
       "description": "A courageous and muscular breed, often used as a working dog.",
       "title": "German Shepherd",
       "image_url": "https://www.akc.org/wp-content/uploads/2017/11/German-Shepherd-Dog-running.jpg",
-      "genres": ["Loyal", "Courageous", "Working Dog"]
+      "categories": ["Loyal", "Courageous", "Working Dog"]
     },
     {
       "description": "A playful and affectionate breed with a distinctive wrinkled face.",
       "title": "Bulldog",
       "image_url": "https://www.akc.org/wp-content/uploads/2017/11/bulldog-asleep-on-couch-tongue-out.jpg",
-      "genres": ["Playful", "Affectionate", "Calm"]
+      "categories": ["Playful", "Affectionate", "Calm"]
     },
     {
       "description": "A small, lively breed known for its long ears and cheerful personality.",
       "title": "Beagle",
       "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Beagles-standing-side-by-side-in-the-yard.jpg",
-      "genres": ["Lively", "Friendly", "Hunting Dog"]
+      "categories": ["Lively", "Friendly", "Hunting Dog"]
     },
     {
       "description": "A large and powerful breed, often used as a guard dog.",
       "title": "Rottweiler",
       "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Rottweiler-lying-on-a-park-bench.jpg",
-      "genres": ["Protective", "Confident", "Loyal"]
+      "categories": ["Protective", "Confident", "Loyal"]
     },
     {
       "description": "A small, fluffy breed known for its friendly and outgoing nature.",
       "title": "Pomeranian",
       "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Pomeranian-On-White-01.jpg",
-      "genres": ["Friendly", "Outgoing", "Toy Dog"]
+      "categories": ["Friendly", "Outgoing", "Toy Dog"]
     },
     {
       "description": "A gentle giant with a calm and friendly demeanor.",
       "title": "Saint Bernard",
       "image_url": "https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/14154632/Saint-Bernard-head-portrait-outdoors-in-the-winter.jpg",
-      "genres": ["Gentle", "Friendly", "Rescue Dog"]
+      "categories": ["Gentle", "Friendly", "Rescue Dog"]
     },
     {
       "description": "A sleek and athletic breed, known for its speed and grace.",
       "title": "Greyhound",
       "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Greyhound-laying-down-in-the-grass.jpg",
-      "genres": ["Athletic", "Gentle", "Racing Dog"]
+      "categories": ["Athletic", "Gentle", "Racing Dog"]
     },
     {
       "description": "A small, sturdy breed with a distinctive wiry coat.",
       "title": "Scottish Terrier",
       "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Scottish-Terrier-On-White-04.jpg",
-      "genres": ["Independent", "Loyal", "Terrier"]
+      "categories": ["Independent", "Loyal", "Terrier"]
     },
     {
     "description": "A medium-sized breed with a strong hunting instinct and a distinctive black and tan coat.",
     "title": "Doberman Pinscher",
     "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Doberman-Pinscher-standing-outdoors.jpg",
-    "genres": ["Loyal", "Protective", "Energetic"]
+    "categories": ["Loyal", "Protective", "Energetic"]
     },
     {
     "description": "A tiny and charming breed known for its big personality and smooth coat.",
     "title": "Chihuahua",
     "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Longhaired-Chihuahua-walking-in-the-grass.jpg",
-    "genres": ["Alert", "Lively", "Companion"]
+    "categories": ["Alert", "Lively", "Companion"]
     },
     {
     "description": "A medium-sized herding dog with a thick double coat and keen intelligence.",
     "title": "Border Collie",
     "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Border-Collie-on-seesaw-in-agility.jpg",
-    "genres": ["Intelligent", "Energetic", "Herding Dog"]
+    "categories": ["Intelligent", "Energetic", "Herding Dog"]
     },
     {
     "description": "A large, muscular breed with a short coat and a calm, confident demeanor.",
     "title": "Boxer",
     "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Boxer-head-portrait-outdoors.jpg",
-    "genres": ["Playful", "Loyal", "Protective"]
+    "categories": ["Playful", "Loyal", "Protective"]
     },
     {
     "description": "A small, sturdy dog with a distinctive beard and eyebrows, known for its friendly nature.",
     "title": "Miniature Schnauzer",
     "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Miniature-Schnauzer-fetching-a-frisbee.jpg",
-    "genres": ["Friendly", "Alert", "Terrier"]
+    "categories": ["Friendly", "Alert", "Terrier"]
     },
     {
     "description": "A medium-sized dog with a thick double coat, known for its endurance and friendly temperament.",
     "title": "Alaskan Malamute",
     "image_url": "https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/09151144/Alaskan-Malamute-standing-in-the-grass1.jpg",
-    "genres": ["Strong", "Friendly", "Working Dog"]
+    "categories": ["Strong", "Friendly", "Working Dog"]
     },
     {
     "description": "A small, elegant breed with a silky coat and a lively, affectionate personality.",
     "title": "Cavalier King Charles Spaniel",
     "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Cavalier-King-Charles-Spaniel-standing-in-the-grass.jpg",
-    "genres": ["Affectionate", "Gentle", "Companion"]
+    "categories": ["Affectionate", "Gentle", "Companion"]
     },
     {
     "description": "A medium to large-sized breed known for its calm nature and distinctive blue-black tongue.",
     "title": "Chow Chow",
     "image_url": "https://www.akc.org/wp-content/uploads/2018/04/chow-chow-closeup-portrait-drooling.jpg",
-    "genres": ["Independent", "Loyal", "Reserved"]
+    "categories": ["Independent", "Loyal", "Reserved"]
     }
   ]
 }
